@@ -142,7 +142,6 @@ int findLongestSequence(char **matrix,int iRows,int iCols){
             if(curr>max){
                 max=curr;
             }
-            
         }
     }
     return max;

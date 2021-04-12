@@ -1,0 +1,8 @@
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/CMakeFiles/rebuild_cache.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/CMakeFiles/edit_cache.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/include/CMakeFiles/rebuild_cache.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/include/CMakeFiles/edit_cache.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/include/CMakeFiles/LongestSequenceLib.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/main/CMakeFiles/rebuild_cache.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/main/CMakeFiles/edit_cache.dir
+/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/main/CMakeFiles/LongestSequence.dir

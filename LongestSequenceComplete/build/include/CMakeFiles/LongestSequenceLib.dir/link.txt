@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libLongestSequenceLib.so -o libLongestSequenceLib.so CMakeFiles/LongestSequenceLib.dir/src/includes/longestSequence.c.o   -L/home/dimitarangelov/Desktop/C/LongestSequenceComplete/include/src 

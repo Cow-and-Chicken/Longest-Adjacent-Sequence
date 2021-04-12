@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--export-dynamic -rdynamic CMakeFiles/LongestSequence.dir/main.c.o -o LongestSequence   -L/home/dimitarangelov/Desktop/C/LongestSequenceComplete/include/src  -Wl,-rpath,/home/dimitarangelov/Desktop/C/LongestSequenceComplete/include/src:/home/dimitarangelov/Desktop/C/LongestSequenceComplete/build/include ../include/libLongestSequenceLib.so 
